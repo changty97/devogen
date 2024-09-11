@@ -1,0 +1,3 @@
+[submodule "devogen-cli"]
+	path = devogen-cli
+	url = https://github.com/changty97/devogen-cli
